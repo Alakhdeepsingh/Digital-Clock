@@ -1,2 +1,2 @@
 # JavaScript Clock
-Calculator Project using Javascript
+Clock Project using Javascript
