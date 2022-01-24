@@ -1,2 +1,2 @@
-# JavaScript Clock
-Clock Project using Javascript
+# Digital Clock
+Digital Clock with Date (Day, Month, Year)
