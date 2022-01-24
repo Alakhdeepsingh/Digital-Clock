@@ -1,2 +1,2 @@
 # Digital Clock
-Digital Clock with Date (Day, Month, Year) using Javascript
+Digital Clock with Date (Day, Month, Year) using HTML, CSS & Javascript
