@@ -14,15 +14,15 @@ body{
     background-color: rgb(255, 255, 255);
     font-family: 'Segoe UI', sans-serif;
     width:340px;
-    padding:25px 15px;
-    border: 3px solid #ffffff;
-    border-radius: 5px;
+    padding:20px 90px;
+    border: 4px solid #ffffff;
+    border-radius: 1px;
     -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(255, 255, 255,0.1));
     transition: 0.5s;
     /* transition-property: background,box-shadow; */
 }
 .datetime:hover{
-    background-color: #ff66eb;
+    background-color: #fff01c;
     box-shadow: 0 0 30px  rgb(235, 235, 235);
 }  
 
@@ -32,6 +32,8 @@ body{
     text-align:center;
     color:black;
     letter-spacing: 2px;
+    /* overflow: hidden; */
+    white-space: nowrap;
 }
 .time{
     font-size:60px;
